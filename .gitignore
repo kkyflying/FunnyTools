@@ -1,5 +1,6 @@
 
 .idea/
-src/sp/__pycache__/
+sp/__pycache__/
 pytools.egg-info/
 Pytools.egg-info/
+dist/
