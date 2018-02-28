@@ -15,7 +15,7 @@ setup(
     license='MIT',
     keywords='tools',
     packages=find_packages(),
-    platforms = 'any',
+    platforms = 'linux mac',
     classifiers=[
         #   3 - Alpha
         #   4 - Beta
