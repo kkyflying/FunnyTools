@@ -9,7 +9,7 @@ setup(
     name='Pytools',
     version='0.0.1',
     description='a python3 tools lib',
-    url='',
+    url='https://github.com/kkyflying/PyTools',
     author='kky',
     author_email='kkyflying@gmail.com',
     license='MIT',
